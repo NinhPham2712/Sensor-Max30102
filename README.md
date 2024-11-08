@@ -6,6 +6,7 @@ The liraries that needed for this project:
 https://github.com/catnull/Max30102Driver-For-Arduino
 
 https://github.com/adafruit/Adafruit-GFX-Library
+
 https://github.com/adafruit/Adafruit-ST7735-Library
 
 
